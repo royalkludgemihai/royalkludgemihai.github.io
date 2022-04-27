@@ -1,0 +1,22 @@
+*{
+    margin:0px;
+    padding:0px;
+    background-color: #E6E6E6;
+}
+
+div#general {
+    margin: auto;
+    width: 1878px;
+    height: 938px;
+    
+}
+
+div#logo {
+    width: 200px;
+    height: 100;
+}
+
+div#primertexto {
+    text-align: justify;
+    font-size: medium;
+}
